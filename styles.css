@@ -1,0 +1,41 @@
+
+
+div{
+    width: 600px;
+    /* height:600px ; */
+    text-align: center;
+    margin: 0 auto;
+    
+}
+
+h1{
+    font-family: sans-serif;
+    border: 5px solid black;
+    align-items: center;
+    font-size: 24px;
+    
+}
+p{
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+h3{
+    font-family: sans-serif;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    align-items: center;
+    font-size: 24px;
+    font-weight: normal;
+}
+
+a{
+    background-color: rgb(7, 223, 43);
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 20px;
+    font-family: sans-serif;
+    color: white;
+    font-weight: bolder;
+    padding: 10px 15px;
+}
